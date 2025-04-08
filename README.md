@@ -20,8 +20,8 @@ Features:
 Quick Start:
 
 1. Clone the repository:
-   git clone https://github.com/AhmedBsl/my-portfolio.git
-   cd my-portfolio
+   git clone https://github.com/AhmedBsl/svelte-portfolio.git
+   cd svelte-portfolio
 
 2. Install dependencies:
    npm install
