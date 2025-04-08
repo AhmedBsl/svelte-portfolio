@@ -1,0 +1,94 @@
+{
+  "name": "Bousahla Ahmed Abdelghani",
+  "title": "Computer Science & Developer",
+  "phone": "+213 674473811",
+  "address": "Sidi Bel Abbes, Algeria",
+  "email": "ahmedbousahla@gmail.com",
+  "image": "/github qrcode.png",
+  "bio": "I wish to join a company where I can apply my skills, enrich my experience, and contribute to its performance by leveraging my analytical mindset to effectively tackle complex challenges.",
+  "social": {
+    "github": "https://github.com/AhmedBsl",
+    "linkedin": "https://www.linkedin.com/in/bousahla-ahmed-abdelghani-a99066165/",
+    "facebook": "https://www.facebook.com/profile.php?id=100009866649312"
+  },
+  "tools": [
+    {
+      "name": "Programming Languages",
+      "skills": ["Python", "JavaScript", "PHP"]
+    },
+    {
+      "name": "Web & Mobile Development",
+      "skills": ["HTML", "CSS", "JavaScript", "SvelteKit", "Flutter", "Android Studio"]
+    },
+    {
+      "name": "Database Management",
+      "skills": ["MySQL", "MongoDB"]
+    },
+    {
+      "name": "AI & Machine Learning",
+      "skills": ["Deep learning algorithms", "Data analytics"]
+    },
+    {
+      "name": "Office Tools",
+      "skills": ["Microsoft Word", "Excel", "PowerPoint"]
+    },
+    {
+      "name": "Soft Skills",
+      "skills": ["Teamwork", "Problem-solving", "Adaptability", "Communication"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Final Year Project",
+      "description": "Developed a secure Responsive RWD web platform for organizations to manage and ensure data integrity.",
+      "link": "",
+      "technologies": ["HTML", "CSS", "JavaScript", "MySQL"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's Degree in Computer Science, Information Systems",
+      "school": "University of Exact Sciences Djilali Liabes Abbès",
+      "year": "2017 - 2021",
+      "location": "Sidi-Bel Abbès, Algeria"
+    },
+    {
+      "degree": "BAC in Math-Technology, Electricity",
+      "school": "School Mohamed Boudiaf",
+      "year": "2015 - 2017",
+      "location": "Sidi-Bel-Abbès, Algeria"
+    }
+  ],
+  "professionalExperience": [
+    {
+      "title": "Coffee Server & Restaurant & Supermarket Staff",
+      "company": "Sidi Bel Abbès",
+      "duration": "2022 - 2024",
+      "description": "Delivered excellent customer service in a fast-paced team environment, stocked shelves, and assisted customers as part of a dynamic team."
+    }
+  ],
+  "apprenticeships": [
+    {
+      "title": "Woodwork Apprentice",
+      "company": "Wood Carpentry Company Saidoun Samir",
+      "duration": "2021 - 2022",
+      "location": "Sidi Bel Abbès, Algeria",
+      "description": "Apprenticeship contract with Wood Carpentry Company Saidoun Samir and Kour Aboubakr."
+    }
+  ],
+  "certificates": [
+    {
+      "title": "NVIDIA Certification of Competence",
+      "description": "Demonstrated expertise in deep learning fundamentals (Expected 2025)."
+    }
+  ],
+  "languages": ["Arabic", "French", "English"],
+  "interests": ["Hiking", "Coding", "Soccer", "Basketball"]
+}
+
+
+
+
+
+
+
