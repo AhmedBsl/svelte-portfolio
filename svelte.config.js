@@ -15,7 +15,7 @@ const config = {
       fallback: null
     }),
     paths: {
-      base: dev ? '' : 'svelte-portfolio'
+      base: dev ? '' : '/svelte-portfolio'
     },
     prerender: {
       default: true
