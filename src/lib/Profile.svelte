@@ -39,6 +39,16 @@
       <!-- Bio -->
       <p class="text-center text-slate-600 dark:text-slate-400 mb-6 text-sm leading-relaxed">{bio}</p>
       
+      <!-- Download Resume Button -->
+      <a 
+        href="/resume.pdf" 
+        download
+        class="mb-6 px-4 py-2 rounded-lg bg-gradient-to-r from-primary to-secondary text-white 
+               hover:opacity-90 transition-opacity duration-200 text-sm font-medium"
+      >
+        Download Resume
+      </a>
+
       <!-- Social Links -->
       <div class="flex space-x-6 mb-8">
         {#each Object.entries(social) as [platform, url]}
