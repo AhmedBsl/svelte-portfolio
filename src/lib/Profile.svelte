@@ -40,14 +40,20 @@
       <p class="text-center text-slate-600 dark:text-slate-400 mb-6 text-sm leading-relaxed">{bio}</p>
       
       <!-- Download Resume Button -->
-      <a 
-        href="/resume.pdf" 
-        download
-        class="mb-6 px-4 py-2 rounded-lg bg-gradient-to-r from-primary to-secondary text-white 
-               hover:opacity-90 transition-opacity duration-200 text-sm font-medium"
+      <button 
+        class="mb-6 px-6 py-2.5 rounded-lg bg-gradient-to-r from-primary to-secondary text-white 
+               hover:opacity-90 transition-opacity duration-200 text-sm font-medium flex items-center gap-2"
+        on:click={() => {
+          const link = document.createElement('a');
+          link.href = 'resume.pdf';
+          link.download = 'resume.pdf';
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
+        }}
       >
         Download Resume
-      </a>
+      </button>
 
       <!-- Social Links -->
       <div class="flex space-x-6 mb-8">
