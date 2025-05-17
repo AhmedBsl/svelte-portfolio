@@ -15,7 +15,8 @@
   function downloadResume() {
     const link = document.createElement('a');
     link.href = '/Resume.pdf';
-    link.download = 'Resume.pdf';
+    link.setAttribute('download', 'Resume.pdf');
+    link.setAttribute('target', '_blank');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
