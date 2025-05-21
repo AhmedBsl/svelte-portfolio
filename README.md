@@ -6,6 +6,11 @@ This template is based on NotSooShariff's Svelte Portfolio Template (https://git
 
 ---
 
+## Live Demo
+
+You can view the deployed website here:  
+👉 [https://ahmedbsl-svelte-portfollio.netlify.app/](https://ahmedbsl-svelte-portfollio.netlify.app/)
+
 Features:
 
 - Modern glass-morphism design with dark/light mode toggle
